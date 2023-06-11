@@ -1,0 +1,14 @@
+initialValue    0.0
+
+boundary0   slipWall
+
+boundary1   slipWall
+
+boundary2   fixedValue
+fixedValue2 0.
+
+boundary3   zeroGradient
+
+boundary4   slipWall
+
+boundary5   slipWall

@@ -1,0 +1,7 @@
+CFL 0.5
+
+overStep    3001
+
+saveStep    500
+
+fluxScheme  KNPScheme

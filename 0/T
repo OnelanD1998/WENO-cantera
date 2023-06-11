@@ -1,0 +1,14 @@
+initialValue    278.
+
+boundary0   slipWall
+
+boundary1   slipWall
+
+boundary2   zeroGradient
+fixedValue2 278.
+
+boundary3   zeroGradient
+
+boundary4   slipWall
+
+boundary5   slipWall

@@ -1,0 +1,3 @@
+/home/shuidong2/myCode/cmake_CtWeno/build/CMakeFiles/edit_cache.dir
+/home/shuidong2/myCode/cmake_CtWeno/build/CMakeFiles/rebuild_cache.dir
+/home/shuidong2/myCode/cmake_CtWeno/build/CMakeFiles/singleMPIPrj.dir

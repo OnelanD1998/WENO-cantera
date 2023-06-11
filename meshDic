@@ -1,0 +1,12 @@
+wenoR    3
+
+xNode    10000
+yNode    1
+zNode    1
+
+xLeft    0
+xRight   1
+yLeft    0
+yRight   0.0005
+zLeft    0
+zRight   0.0005
